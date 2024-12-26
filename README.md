@@ -6,4 +6,4 @@
 * 투표기능(Create / Read / Update / Delete)
 
 >## 구현영상
-![Uploading 1차-프로젝트-bbs_poll.gif…]()
+![1차-프로젝트-bbs_poll](https://github.com/user-attachments/assets/111005f7-1d96-45da-b49f-aabc3dad17cd)
